@@ -1,9 +1,14 @@
-package guru.springframework.spring5webapp.domain;
+package guru.springframework.spring5webapp.model;
 
 import javax.persistence.*;
 import java.util.Objects;
 import java.util.Set;
 
+/**
+ * @created 07/07/2020 - 9:51 PM
+ * @project spring5webapp
+ * @author  cliffordbechtel
+ */
 @Entity
 public class Author {
 
